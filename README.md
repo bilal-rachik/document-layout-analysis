@@ -1,6 +1,6 @@
 # document-layout-analysis
 
-document est un petit projet  Python qui permet à quiconque d'extraire facilement des tableaux et de la segelnation de text à partir d'image  !
+Document-layout-analysis est un petit projet Python qui permet à quiconque d'extraire facilement des tableaux et de la segmentation du texte à partir d'image  !
 
 * Voici comment extraire des tableaux à partir d'image
 
@@ -22,5 +22,5 @@ document est un petit projet  Python qui permet à quiconque d'extraire facileme
 </pre>
 
 * vous pouvez regarder aussi ce notebook [Block segmentation and text extraction](https://github.com/bilal-rachik/document-layout-analysis/blob/main/Block%20segmentation%20and%20text%20extraction.ipynb)
-l'objectif de détecter et isoler les zones de texte dans une image.Le but de la segmentation par blocs est d'extraire des régions de texte par rapport à l'ordre de lecture. (Un ensemble ordonné de régions d'image contenant du texte est la sortie.)
+l'objectif est de détecter et isoler les zones de texte dans une image. Le but de la segmentation par blocs est d'extraire des régions de texte par rapport à l'ordre de lecture. (Un ensemble ordonné de régions d'image contenant du texte)
 
